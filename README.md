@@ -12,4 +12,4 @@ A start up food company, Improbable Beef, is looking for an undiscovered species
 
 To view the results, please follow the link below:
 
-[Belly Button Biodiversity Dashboard](https://github.com/RyanWhited/UFOS/blob/main/images/filter_by_state.jpg)
+[Belly Button Biodiversity Dashboard](https://ryanwhited.github.io/Bacteria-Research/)
