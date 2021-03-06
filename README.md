@@ -8,6 +8,8 @@ A start up food company, Improbable Beef, is looking for an undiscovered species
   - Chart 2: A bubble chart that displays bacteria cultures per sample when an individual’s ID is selected from the dropdown menu webpage.
   - Chart 3: A gauge chart that displays the weekly washing frequency's value, and displays the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu.
 
+I also updated up the dashboard with an introduction paragraph, a jumbotron background image, and a new background color for the page. 
+
 ## Results
 
 To view the results, please follow the link below:
